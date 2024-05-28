@@ -40,7 +40,6 @@ This file incorporates the above lunging flies.
 The lunging fly performing distance detection, chasing and lunging
 Simulating the fly chasing and lunging dynamically.
 
-
 - Removement of parts of the fly's body that are in its field of vision
 
 - Manually add desired collison pairs using the function. It can be freely adjusted
@@ -63,18 +62,18 @@ Code Block 3: Configure Vision
 Modifies the vision configurations for the WalkingFly to hide certain body segments from its field of vision.
 This step is crucial for accurately simulating the visual field of the fly model.
 
-Code Block 4: Collision Pairs and Functions Definitions
+Code Block 4: Collision Pairs Function Definition
 Defines functions to add collision pairs between different parts of two fly models.
-Adds specific collision pairs that are necessary for simulating interactions during the lunging behavior.
 
-Code Block 5: Initialize Simulation
+Code Block 5,6: Initialize Simulation
 Sets the simulation time parameters.
 Initializes two fly models with specific properties and positions.
 Enables collision detection and sets up a flat terrain arena.
 Adds cameras to the simulation for recording the scenario.
-This block is pivotal for starting the simulation with the configured parameters and models.
+These 2 block is pivotal for starting the simulation with the configured parameters and models.
 
-Code Block 5: Plot the average weighted pixel value over time
+Code Block 7: Simulation of the overall performance
 
-Code Block 6: Play the video
+Code Block 8: Plot the average weighted pixel value over time.
 
+Code Block 9,10: Play the video
