@@ -4,13 +4,13 @@
 
 ###Lunging and Force Measurement File ###
 
-- lunging behavior simulation manipulation data
+- Lunging behavior simulation manipulation data
 
 - Multi-camera rendering of one-fly simulation
 
-- multiply simulation
+- Multiply simulation
 
-- force measurement plot
+- Force measurement plot
 
 - Plot of the simulation result
 
