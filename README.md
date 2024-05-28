@@ -51,21 +51,27 @@ Code Block 1: Basic Setup
 Imports necessary libraries 
 Loads simulation and modeling components like Simulation, Camera, and FlatTerrain.
 Executing this block sets up the environment for the simulations.
+
 Code Block 2: Import Fly Models
 Imports the LungingFly and WalkingFly models from the flies module.
 This block is essential for initializing the models used in the simulations.
+
 Code Block 3: Configure Vision
 Modifies the vision configurations for the WalkingFly to hide certain body segments from its field of vision.
 This step is crucial for accurately simulating the visual field of the fly model.
+
 Code Block 4: Collision Pairs and Functions Definitions
 Defines functions to add collision pairs between different parts of two fly models.
 Adds specific collision pairs that are necessary for simulating interactions during the lunging behavior.
+
 Code Block 5: Initialize Simulation
 Sets the simulation time parameters.
 Initializes two fly models with specific properties and positions.
 Enables collision detection and sets up a flat terrain arena.
 Adds cameras to the simulation for recording the scenario.
 This block is pivotal for starting the simulation with the configured parameters and models.
+
 Code Block 5: Plot the average weighted pixel value over time
+
 Code Block 6: Play the video
 
