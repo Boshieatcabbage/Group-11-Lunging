@@ -1,6 +1,6 @@
 # Agression Lunging Simulation
 
-Please copy the preprogrammed.py and fly.py into the definition and restart the kernel to make sure the program runs correctly
+Please copy the preprogrammed.py and fly.py to update the definition and restart the kernel to make sure the program runs correctly.
 
 # XXXXXXXXXXXXXXXXXXXXX File ###
 
