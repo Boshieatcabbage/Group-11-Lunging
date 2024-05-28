@@ -8,7 +8,7 @@
 
 - Multi-camera rendering of one-fly simulation
 
-- Multiply simulation
+- Multi-fly simulation
 
 - Force measurement plot
 
