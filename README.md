@@ -4,21 +4,21 @@
 
 ###Lunging and Force Measurement File ###
 
--lunging behavior simulation manipulation data
+- lunging behavior simulation manipulation data
 
--Multi-camera rendering of one-fly simulation
+- Multi-camera rendering of one-fly simulation
 
--multiply simulation
+- multiply simulation
 
--force measurement plot
+- force measurement plot
 
--Plot of the simulation result
+- Plot of the simulation result
 
 
 
 Running the first four code blocks would be able to provide the basic setup for the lunging behavior 
 The 5th block would act like a sanity check to verify the actuation angle
-The Multi-Camera rendering and Multi fly simulation could be run to produce videos of lunging.
+The Multi-Camera rendering and Multi-fly simulation could be run to produce videos of lunging.
 All the above code could be run simultaneously.
 
 The Rendering block and the Peak Force measurement block could not be implemented in one run. 
