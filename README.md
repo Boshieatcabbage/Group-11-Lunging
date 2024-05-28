@@ -10,7 +10,7 @@ incorporates the following
 
 - Multi-camera rendering of one-fly simulation
 
-- Multi-fly simulation
+- Multi-fly simulation (target stationary)
 
 - Force measurement plot
 
@@ -30,7 +30,10 @@ The Rendering block and the Peak Force measurement block could not be implemente
 - To switch back to rendering, undo the above process.
 
     
-The last two blocks are plots of measurement data from manipulation of Peak force measurement.
+The last two blocks are plots of measurement data from the manipulation of Peak force measurement.
 
 # Overall Performance File ###
-This file includes the 
+This file incorporates the above lunging flies.
+The lunging fly performing distance detection, chasing and lunging
+Simulating the fly chasing and lunging dynamically.
+
