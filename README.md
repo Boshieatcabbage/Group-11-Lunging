@@ -1,15 +1,19 @@
-This file includes 
+###XXXXXXXXXXXXXXXXXXXXX File ###
+
+
+
+###Lunging and Force Measurement File ###
 -lunging behavior simulation manipulation data
--Multi-camera rendering of one fly simulation
--multifly simulation
+-Multi-camera rendering of one-fly simulation
+-multiply simulation
 -force measurement plot
 -Plot of the simulation result
 
 
-Running the first four code block would be able to provide the basic setup for the lunging behavior 
+Running the first four code blocks would be able to provide the basic setup for the lunging behavior 
 The 5th block would act like a sanity check to verify the actuation angle
 The Multi-Camera rendering and Multi fly simulation could be runned to produce videos of lunging.
-All above code could be run simultanously.
+All the above code could be run simultaneously.
 
 The Rendering block and the Peak Force measurement block could not be implemented in one run. 
     In order to perform peak force measurement, please restart the kernel, uncomment the measurement block, and comment out the rendering blocks
