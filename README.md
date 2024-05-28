@@ -1,7 +1,7 @@
 # Agression Lunging Simulation
 
-Please copy the preprogrammed.py and fly.py to update the class definition and restart the kernel to make sure the program runs correctly.
-Please run the flies.py class definition to enable the simulation of the overall performance
+Please copy the preprogrammed.py and fly.py to update the class definition and restart the kernel to ensure the program runs correctly.
+Please run the flies.py class definition to enable the simulation for the "overall performance".
 
 # Lunging and Force Measurement File ###
 incorporates the following 
