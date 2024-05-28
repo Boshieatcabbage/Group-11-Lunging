@@ -3,11 +3,8 @@
 Please copy the preprogrammed.py and fly.py to update the class definition and restart the kernel to make sure the program runs correctly.
 Please run the flies.py class definition to enable the simulation of the overall performance
 
-# Overall Performance File ###
-
-
-
 # Lunging and Force Measurement File ###
+incorporates the following 
 
 - Lunging behavior simulation manipulation data
 
@@ -34,3 +31,6 @@ The Rendering block and the Peak Force measurement block could not be implemente
 
     
 The last two blocks are plots of measurement data from manipulation of Peak force measurement.
+
+# Overall Performance File ###
+This file includes the 
